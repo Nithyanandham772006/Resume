@@ -155,16 +155,7 @@
             <li>Machine Learning Model - Built a predictive model for customer churn analysis.</li>
         </ul>
     </section>
-
-    <section id="certificates" class="section">
-        <h2>Certificates</h2>
-        <ul>
-            <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ovyvuqqNRQKBjNxbj/3xnZEj9kfpoQKW885_ovyvuqqNRQKBjNxbj_AWDCHovTypj9A4M4c_1742662807910_completion_certificate.pdf" target="_blank">Accenture</a></li>
-            <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_AWDCHovTypj9A4M4c_1742715586316_completion_certificate.pdf" target="_blank">Deloitte </a></li>
-            <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_AWDCHovTypj9A4M4c_1742716952621_completion_certificate.pdf" target="_blank">Goldman Sachs </a></li>
-            <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_AWDCHovTypj9A4M4c_1742645328794_completion_certificate.pdf" target="_blank">TATA 1</a></li>
-            <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/N8Muuhk6XsXgMTeu2_ifobHAoMjQs9s6bKS_AWDCHovTypj9A4M4c_1742665604623_completion_certificate.pdf" target="_blank">TATA 2</a></li>
-        </ul>
+         
     </section>
 
     <section id="resume" class="section">
