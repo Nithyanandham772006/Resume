@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NITHYANANDHAM | Portfolio</title>
+    <title> D S NITHYANANDHAM | Portfolio</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
     <style>
         /* General Styles */
@@ -108,7 +108,7 @@
 </head>
 <body>
     <header>
-        <h1 class="hero-title">NITHYANANDHAM D </h1>
+        <h1 class="hero-title">NITHYANANDHAM D S </h1>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
@@ -122,8 +122,8 @@
 
     <section id="about" class="section">
         <h2>About Me</h2>
-        <img src="c:\Users\ELCOT\Downloads\nm project\WhatsApp Image 2025-04-03 at 9.40.13 PM.jpeg" class="profile-img" alt="Profile Image">
-        <p>Hi, I'm NITHYANANDHAM D,</p>
+        <img src="https://github.com/Nithyanandham772006/Resume/blob/main/WhatsApp%20Image%202025-04-03%20at%209.40.13%20PM.jpeg">
+        <p>Hi, I'm D S NITHYANANDHAYAM ,</p>
     </section>
 
     <section id="education" class="section">
