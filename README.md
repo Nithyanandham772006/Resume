@@ -164,8 +164,6 @@
             <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_AWDCHovTypj9A4M4c_1742716952621_completion_certificate.pdf" target="_blank">Goldman Sachs </a></li>
             <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_AWDCHovTypj9A4M4c_1742645328794_completion_certificate.pdf" target="_blank">TATA 1</a></li>
             <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/N8Muuhk6XsXgMTeu2_ifobHAoMjQs9s6bKS_AWDCHovTypj9A4M4c_1742665604623_completion_certificate.pdf" target="_blank">TATA 2</a></li>
-	    <li><a href="https://www.linkedin.com/learning/certificates/dd2c31f68684650f3e3730afc0ba7064b2f813dd88987734463937454c40de11">Linkedin 1</a></li>
-	    <li><a href="https://www.linkedin.com/learning/certificates/dd2c31f68684650f3e3730afc0ba7064b2f813dd88987734463937454c40de11">Linkedin 2</a></li>
         </ul>
     </section>
 
