@@ -108,7 +108,7 @@
 </head>
 <body>
     <header>
-        <h1 class="hero-title">NITHYANANDHAM</h1>
+        <h1 class="hero-title">NITHYANANDHAM D </h1>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
@@ -124,12 +124,12 @@
     <section id="about" class="section">
         <h2>About Me</h2>
         <img src="c:\Users\ELCOT\Downloads\nm project\WhatsApp Image 2025-04-03 at 9.40.13 PM.jpeg" class="profile-img" alt="Profile Image">
-        <p>Hi, I'm NITHYANANDHAM, a passionate Data Science enthusiast...</p>
+        <p>Hi, I'm NITHYANANDHAM D,</p>
     </section>
 
     <section id="education" class="section">
         <h2>Education</h2>
-        <p>B.Sc Computer Science with Data Science - GOVERNMENT ARTS AND SCIENCE COLLAGE</p>
+        <p>B.Sc Computer Science - GOVERNMENT ARTS AND SCIENCE COLLAGE</p>
     </section>
 
     <section id="skills" class="section">
